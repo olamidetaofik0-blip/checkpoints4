@@ -54,3 +54,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // Initial total calculation
   updateTotal();
 });
+
